@@ -24,10 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Letian Jiang"
-  pronouns         : # example: "she/her"  
   bio              : "Undergraduate student at Xiamen University Malaysia"
   location         : "Sepang Malaysia"
-  uri              : "https://letianjiang2.github.io" # URL to your homepage, e.g. "https://[your GitHub username].github.io"
   email            : "dylan83538@gmail.com" 
 
   github           : "https://github.com/letianjiang2"
