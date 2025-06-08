@@ -13,8 +13,6 @@ title                    : "Letian Jiang" # the title of your site, e.g. "My Aca
 title_separator          : "-"
 name                     : &name "Letian Jiang"
 description              : &description "Undergraduate student at Xiamen University Malaysia"
-url                      : https://letianjiang2.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "letianjiang2/letianjiang2.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
