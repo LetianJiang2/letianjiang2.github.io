@@ -21,15 +21,23 @@
   "education": [
     {
       "institution": "Xiamen University Malaysia",
-      "area": "Computer Science",
+      "area": "Bachelor of Engineering in Computer Science and Technology",
       "studyType": "Undergraduate",
       "startDate": "2024",
       "endDate": "Now",
-      "gpa": 3.49,
+      "gpa": "3.49/4.0",
       "courses": []
-    },
+    }
   ],
   "skills": [],
-  "languages": [],
-  "interests": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "TOEFL Score: 74"
+    }
+  ],
+  "interests": [
+    "Music",
+    "Reading" 
+  ]
 }
