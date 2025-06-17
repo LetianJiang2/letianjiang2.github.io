@@ -13,7 +13,7 @@ title                    : "Letian Jiang" # the title of your site, e.g. "My Aca
 title_separator          : "-"
 name                     : &name "Letian Jiang"
 description              : &description "Undergraduate student at Xiamen University Malaysia"
-repository               : "letianjiang2/letianjiang2.github.io"
+repository               : "letianjiang05/letianjiang05.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   location         : "Sepang Malaysia"
   email            : "dylan83538@gmail.com" 
 
-  github           : "https://github.com/letianjiang2"
+  github           : "https://github.com/letianjiang05"
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
