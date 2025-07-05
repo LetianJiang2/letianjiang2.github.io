@@ -1,1 +1,1 @@
-![RenderCV](https://github.com/rendercv/rendercv)
+[RenderCV](https://github.com/rendercv/rendercv)
